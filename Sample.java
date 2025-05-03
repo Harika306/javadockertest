@@ -2,7 +2,7 @@ public class Sample
 { 
 	public static void main(String args[])
 	{
-		system.out.println("Chikkudu Harika");
+		System.out.println("Chikkudu Harika");
 	}
 }
 
